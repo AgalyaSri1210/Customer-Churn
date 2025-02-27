@@ -1,5 +1,5 @@
 # Customer-Churn
-Simple ML projects for beginners using python
+Simple ML projects for beginners using python:
 The customer churn project,
 
 * Importing packages
